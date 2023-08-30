@@ -1,0 +1,22 @@
+http://localhost:8080/demoSpringBoot/clientes/crear
+{
+    "nombre": "Jose Lema",
+    "direccion": "Otavalo sn y principal",
+    "telefono": "098254785",
+    "contraseña": "1234",
+    "estado": true
+}
+{
+    "nombre": "Marianela Montalvo",
+    "direccion": "Amazonas y NNUU",
+    "telefono": "097548965",
+    "contraseña": "5678",
+    "estado": true
+}
+{
+    "nombre": "Juan Osorio",
+    "direccion": "13 junio y Equinoccial",
+    "telefono": "098874587",
+    "contraseña": "1245",
+    "estado": true
+}
